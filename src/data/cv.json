@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": null,
-    "source": "manual",
+    "generatedAt": "2026-08-24T21:57:15.972Z",
+    "source": "CV_EN.pdf",
     "sourceLanguage": "en",
     "availableLanguages": [
       "en",
@@ -13,114 +13,33 @@
   },
   "person": {
     "firstName": {
-      "en": "Ioannis",
-      "el": "Ιωάννης"
+      "en": "IOANNIS",
+      "el": "IOANNIS"
     },
     "lastName": {
-      "en": "Kalaitzidis",
-      "el": "Καλαϊτζίδης"
+      "en": "KALAITZIDIS",
+      "el": "KALAITZIDIS"
     },
     "headline": {
-      "en": "MSc Student in Cybersecurity & Artificial Intelligence",
-      "el": "Μεταπτυχιακός Φοιτητής Κυβερνοασφάλειας & Τεχνητής Νοημοσύνης"
+      "en": "MSc student in Cybersecurity and Artificial Intelligence Technologies",
+      "el": "Μεταπτυχιακός φοιτητής στις Τεχνολογίες Κυβερνοασφάλειας και Τεχνητής Νοημοσύνης"
     }
   },
   "contact": [
     {
       "id": "email",
       "label": {
-        "en": "E-mail",
-        "el": "E-mail"
+        "en": "Email",
+        "el": "Email"
       },
       "value": "john.kalaitzidis.2002@gmail.com",
       "href": "mailto:john.kalaitzidis.2002@gmail.com"
     }
   ],
-  "personalInfo": [
-    {
-      "label": {
-        "en": "Name",
-        "el": "Όνομα"
-      },
-      "value": {
-        "en": "Ioannis",
-        "el": "Ιωάννης"
-      }
-    },
-    {
-      "label": {
-        "en": "Surname",
-        "el": "Επώνυμο"
-      },
-      "value": {
-        "en": "Kalaitzidis",
-        "el": "Καλαϊτζίδης"
-      }
-    },
-    {
-      "label": {
-        "en": "Date of Birth",
-        "el": "Ημερομηνία Γέννησης"
-      },
-      "value": {
-        "en": "16/01/2002",
-        "el": "16/01/2002"
-      }
-    },
-    {
-      "label": {
-        "en": "Birth Place",
-        "el": "Τόπος Γέννησης"
-      },
-      "value": {
-        "en": "Xanthi, Greece",
-        "el": "Ξάνθη, Ελλάδα"
-      }
-    },
-    {
-      "label": {
-        "en": "Nationality",
-        "el": "Υπηκοότητα"
-      },
-      "value": {
-        "en": "Greek",
-        "el": "Ελληνική"
-      }
-    },
-    {
-      "label": {
-        "en": "Languages",
-        "el": "Γλώσσες"
-      },
-      "value": {
-        "en": "Greek (Native), English (C2 Proficiency), Italian (A1)",
-        "el": "Ελληνικά (Μητρική), Αγγλικά (C2 Proficiency), Ιταλικά (A1)"
-      }
-    },
-    {
-      "label": {
-        "en": "Driver's License",
-        "el": "Άδεια Οδήγησης"
-      },
-      "value": {
-        "en": "A1, B",
-        "el": "A1, B"
-      }
-    },
-    {
-      "label": {
-        "en": "Military Service",
-        "el": "Στρατιωτική Θητεία"
-      },
-      "value": {
-        "en": "Completed",
-        "el": "Ολοκληρωμένη"
-      }
-    }
-  ],
+  "personalInfo": [],
   "summary": {
-    "en": "MSc student in Cybersecurity and Artificial Intelligence with an academic background in Informatics and Telecommunications. Gained practical exposure to web development and software programming through academic projects, complemented by professional experience in 1st/2nd-level IT systems support within the public sector. Focused on applying theoretical knowledge to practice, demonstrated through multiple hands-on cybersecurity lab projects. Highly motivated to leverage problem-solving skills and technical foundations to protect digital infrastructures in a cybersecurity role.",
-    "el": "Μεταπτυχιακός φοιτητής Κυβερνοασφάλειας και Τεχνητής Νοημοσύνης με ακαδημαϊκό υπόβαθρο στην Πληροφορική και τις Τηλεπικοινωνίες. Έχω αποκτήσει πρακτική εμπειρία σε web development και προγραμματισμό λογισμικού μέσα από ακαδημαϊκά projects, σε συνδυασμό με επαγγελματική εμπειρία σε υποστήριξη συστημάτων 1ου/2ου επιπέδου στον δημόσιο τομέα. Εστιάζω στην εφαρμογή της θεωρίας στην πράξη, όπως αποδεικνύεται από πολλαπλά εργαστηριακά projects κυβερνοασφάλειας. Στόχος μου είναι να αξιοποιήσω τις ικανότητές μου στην επίλυση προβλημάτων και το τεχνικό μου υπόβαθρο για την προστασία ψηφιακών υποδομών σε ρόλο κυβερνοασφάλειας."
+    "en": "MSc student in Cybersecurity and Artificial Intelligence Technologies with an academic background in Informatics and Telecommunications. Gained practical exposure to software programming through academic projects, complemented by professional experience in IT operations. This includes 1st/2nd-level IT systems support within the public sector and currently coordinating technical operations, system auditing, and cross-border IT support for an EU-funded initiative (Interreg). Focused on applying theoretical knowledge to practice, demonstrated through multiple hands-on cybersecurity lab projects. Highly motivated to leverage problem-solving skills and technical foundations to protect digital infrastructures in a cybersecurity role.",
+    "el": "Μεταπτυχιακός φοιτητής στις Τεχνολογίες Κυβερνοασφάλειας και Τεχνητής Νοημοσύνης με ακαδημαϊκό υπόβαθρο στην Πληροφορική και τις Τηλεπικοινωνίες. Απέκτησε πρακτική εμπειρία στον προγραμματισμό λογισμικού μέσω ακαδημαϊκών έργων, η οποία συνδυάζεται με επαγγελματική εμπειρία σε λειτουργίες ΤΠΕ. Αυτή περιλαμβάνει υποστήριξη συστημάτων ΤΠΕ 1ου/2ου επιπέδου στον δημόσιο τομέα και, επί του παρόντος, συντονισμό τεχνικών λειτουργιών, ελέγχου συστημάτων και διασυνοριακής υποστήριξης ΤΠΕ για μια πρωτοβουλία συγχρηματοδοτούμενη από την ΕΕ (Interreg). Εστιάζει στην εφαρμογή της θεωρητικής γνώσης στην πράξη, όπως αποδεικνύεται από πολλαπλά εργαστηριακά έργα κυβερνοασφάλειας. Έχει ισχυρό κίνητρο να αξιοποιήσει τις δεξιότητες επίλυσης προβλημάτων και τις τεχνικές βάσεις για την προστασία ψηφιακών υποδομών σε ρόλο κυβερνοασφάλειας."
   },
   "education": [
     {
@@ -130,18 +49,13 @@
       },
       "institution": {
         "en": "University of Piraeus",
-        "el": "Πανεπιστήμιο Πειραιώς"
+        "el": "University of Piraeus"
       },
       "period": {
-        "en": "Expected graduation: March 2027",
-        "el": "Αναμενόμενη αποφοίτηση: Μάρτιος 2027"
+        "en": "Expected Graduation March 2027",
+        "el": "Αναμενόμενη Αποφοίτηση Μάρ 2027"
       },
-      "highlights": [
-        {
-          "en": "Erasmus+ Mobility: selected to conduct Master's Thesis research at Sapienza University of Rome (Winter Semester 2026–2027).",
-          "el": "Erasmus+ Mobility: επιλογή για εκπόνηση έρευνας διπλωματικής εργασίας στο Sapienza University of Rome (Χειμερινό Εξάμηνο 2026–2027)."
-        }
-      ]
+      "highlights": []
     },
     {
       "degree": {
@@ -150,29 +64,39 @@
       },
       "institution": {
         "en": "University of Thessaly",
-        "el": "Πανεπιστήμιο Θεσσαλίας"
+        "el": "University of Thessaly"
       },
       "period": {
         "en": "Graduated July 2025",
-        "el": "Αποφοίτηση Ιούλιος 2025"
+        "el": "Αποφοίτηση Ιούλ 2025"
       },
       "highlights": [
         {
-          "en": "Ranked 1st in graduating class.",
-          "el": "1η θέση στη σειρά αποφοίτησης."
+          "en": "Ranked 1st in Graduading Class",
+          "el": "1ος στην τάξη αποφοίτησης"
         },
         {
-          "en": "Thesis: \"Web-based educational application with a game-based quiz for evaluating and learning Python programming in secondary education\" (Grade: 10/10).",
-          "el": "Διπλωματική: «Διαδικτυακή εκπαιδευτική εφαρμογή με παιχνίδι-κουίζ για την αξιολόγηση και εκμάθηση προγραμματισμού Python στη δευτεροβάθμια εκπαίδευση» (Βαθμός: 10/10)."
+          "en": "Thesis: “Web-based educational application with a game-based quiz for evaluating and learning Python programming in secondary education” (Grade: 10/10)",
+          "el": "Διπλωματική Εργασία: «Διαδικτυακή εκπαιδευτική εφαρμογή με κουίζ βασισμένο σε παιχνίδι για την αξιολόγηση και εκμάθηση προγραμματισμού Python στη δευτεροβάθμια εκπαίδευση» (Βαθμός: 10/10)"
         },
         {
-          "en": "Certification: Pedagogical Competence.",
-          "el": "Πιστοποίηση: Παιδαγωγική Επάρκεια."
+          "en": "Certification: Pedagogical Competence",
+          "el": "Πιστοποίηση: Παιδαγωγική και Διδακτική Επάρκεια"
         }
       ]
     }
   ],
   "skills": [
+    {
+      "label": {
+        "en": "Languages",
+        "el": "Γλώσσες"
+      },
+      "items": [
+        "English (C2)",
+        "Greek (Native)"
+      ]
+    },
     {
       "label": {
         "en": "Programming",
@@ -192,8 +116,8 @@
     },
     {
       "label": {
-        "en": "Cybersecurity & Network Tools",
-        "el": "Εργαλεία Κυβερνοασφάλειας & Δικτύων"
+        "en": "Cybersecurity and Network Tools",
+        "el": "Εργαλεία Κυβερνοασφάλειας και Δικτύων"
       },
       "items": [
         "Metasploit",
@@ -204,20 +128,32 @@
         "GDB",
         "Scapy",
         "Ettercap",
-        "ModSecurity"
+        "ModSecurity",
+        "aircrack-ng",
+        "airmon-ng",
+        "Apktool",
+        "Ghidra",
+        "Frida",
+        "Volatility",
+        "Autopsy",
+        "Mimikatz",
+        "Snort"
       ]
     },
     {
       "label": {
-        "en": "Frameworks, Databases & Dev Tools",
-        "el": "Frameworks, Βάσεις Δεδομένων & Εργαλεία"
+        "en": "Frameworks, Databases and Dev Tools",
+        "el": "Frameworks, Βάσεις Δεδομένων και Εργαλεία Ανάπτυξης"
       },
       "items": [
         "Unity",
         "OpenCV",
         "Firebase",
         "Bootstrap",
-        "VVenC Encoder"
+        "VVenC",
+        "scikit-learn",
+        "pandas",
+        "NumPy"
       ]
     },
     {
@@ -227,19 +163,8 @@
       },
       "items": [
         "Windows",
-        "macOS",
+        "MacOS",
         "Linux"
-      ]
-    },
-    {
-      "label": {
-        "en": "Languages",
-        "el": "Γλώσσες"
-      },
-      "items": [
-        "English (C2)",
-        "Greek (Native)",
-        "Italian (A1)"
       ]
     }
   ],
@@ -247,11 +172,11 @@
     {
       "name": {
         "en": "Introduction to Cloud",
-        "el": "Introduction to Cloud"
+        "el": "Εισαγωγή στο Cloud"
       },
       "issuer": {
-        "en": "Grow with Google — May 2024",
-        "el": "Grow with Google — Μάιος 2024"
+        "en": "Grow with Google - May 2024",
+        "el": "Grow with Google - Μάι 2024"
       }
     },
     {
@@ -260,34 +185,66 @@
         "el": "Network Basics"
       },
       "issuer": {
-        "en": "CISCO — in progress",
-        "el": "CISCO — σε εξέλιξη"
+        "en": "CISCO - In Progress",
+        "el": "CISCO - Σε εξέλιξη"
       }
     },
     {
       "name": {
-        "en": "CompTIA Security+",
-        "el": "CompTIA Security+"
+        "en": "CompTIA Security process",
+        "el": "CompTIA Security process"
       },
       "issuer": {
-        "en": "CompTIA — in progress",
-        "el": "CompTIA — σε εξέλιξη"
+        "en": "In Progress",
+        "el": "Σε εξέλιξη"
       }
     }
   ],
   "experience": [
     {
       "role": {
+        "en": "Technology Expert and Help Desk Coordinator",
+        "el": "Ειδικός Τεχνολογίας και Συντονιστής Help Desk"
+      },
+      "organization": {
+        "en": "Rural Research and Development Company of North Evros",
+        "el": "Rural Research and Development Company of North Evros"
+      },
+      "location": {
+        "en": "Orestiada, Greece",
+        "el": "Ορεστιάδα, Ελλάδα"
+      },
+      "period": {
+        "en": "May 2026 – Present",
+        "el": "Μάι 2026 – Παρόν"
+      },
+      "bullets": [
+        {
+          "en": "Serve as Technology Expert and Help Desk Coordinator for ADAPTAGRI, an EU co-funded Interreg NEXT Black Sea Basin cross-border programme (Greece-Bulgaria-Türkiye) promoting smart and climate-resilient agriculture across the Evros region.",
+          "el": "Εκτέλεση καθηκόντων Ειδικού Τεχνολογίας και Συντονιστή Help Desk για το ADAPTAGRI, ένα συγχρηματοδοτούμενο από την ΕΕ διασυνοριακό πρόγραμμα Interreg NEXT Λεκάνη της Μαύρης Θάλασσας (Ελλάδα-Βουλγαρία-Τουρκία) που προωθεί την έξυπνη και ανθεκτική στο κλίμα γεωργία στην περιοχή του Έβρου."
+        },
+        {
+          "en": "Provide 1st and 2nd-level technical support to agricultural end-users adopting precision farming and IoT-based monitoring solutions; coordinate with multi-national project teams to ensure consistent cross-border service delivery.",
+          "el": "Παροχή τεχνικής υποστήριξης 1ου και 2ου επιπέδου σε αγρότες τελικούς χρήστες που υιοθετούν λύσεις γεωργίας ακριβείας και παρακολούθησης βάσει IoT· συντονισμός με πολυεθνικές ομάδες έργου για τη διασφάλιση συνεπούς διασυνοριακής παροχής υπηρεσιών."
+        },
+        {
+          "en": "Manage technical documentation, user guidance materials and programme deliverables in compliance with Interreg NEXT administrative requirements, supporting smooth project execution under EU reporting standards.",
+          "el": "Διαχείριση τεχνικής τεκμηρίωσης, υλικού καθοδήγησης χρηστών και παραδοτέων του προγράμματος σύμφωνα με τις διοικητικές απαιτήσεις του Interreg NEXT, υποστηρίζοντας την ομαλή εκτέλεση του έργου βάσει των προτύπων αναφοράς της ΕΕ."
+        }
+      ]
+    },
+    {
+      "role": {
         "en": "IT Support Trainer and Support",
-        "el": "Εκπαιδευτής & Τεχνική Υποστήριξη IT"
+        "el": "Εκπαιδευτής και Υπεύθυνος Υποστήριξης ΤΠΕ"
       },
       "organization": {
         "en": "Netcompany",
         "el": "Netcompany"
       },
       "location": {
-        "en": "Orestiada – Didymoteicho, Greece",
-        "el": "Ορεστιάδα – Διδυμότειχο, Ελλάδα"
+        "en": "Orestiada-Didymoteicho, Greece",
+        "el": "Ορεστιάδα-Διδυμότειχο, Ελλάδα"
       },
       "period": {
         "en": "Jan 2026 – May 2026",
@@ -296,26 +253,26 @@
       "bullets": [
         {
           "en": "Provided on-the-job guidance and comprehensive 1st and 2nd-level IT support to judicial employees in civil court departments and the prosecution office, ensuring a smooth transition to a newly developed digital application.",
-          "el": "Παρείχα καθοδήγηση στον χώρο εργασίας και ολοκληρωμένη υποστήριξη IT 1ου και 2ου επιπέδου σε δικαστικούς υπαλλήλους πολιτικών τμημάτων και εισαγγελίας, εξασφαλίζοντας ομαλή μετάβαση σε νέα ψηφιακή εφαρμογή."
+          "el": "Παροχή καθοδήγησης στον χώρο εργασίας και ολοκληρωμένης υποστήριξης ΤΠΕ 1ου και 2ου επιπέδου σε δικαστικούς υπαλλήλους πολιτικών δικαστηρίων και εισαγγελιών, διασφαλίζοντας την ομαλή μετάβαση σε μια νέα ψηφιακή εφαρμογή."
         },
         {
-          "en": "Mastered the application's functionality and civil court workflows using official technical manuals, resolving routine user inquiries and troubleshooting complex technical issues.",
-          "el": "Εξοικειώθηκα πλήρως με τη λειτουργικότητα της εφαρμογής και τις ροές εργασίας των πολιτικών δικαστηρίων μέσω επίσημων τεχνικών εγχειριδίων, επιλύοντας καθημερινά ερωτήματα χρηστών και σύνθετα τεχνικά προβλήματα."
+          "en": "Mastered the application's functionality and civil court workflows using official technical manuals, resolving routine user inquiries and actively troubleshooting more complex technical issues.",
+          "el": "Πλήρης κατανόηση της λειτουργικότητας της εφαρμογής και των ροών εργασίας των πολιτικών δικαστηρίων μέσω επίσημων τεχνικών εγχειριδίων, επίλυση καθημερινών ερωτημάτων χρηστών και ενεργή αντιμετώπιση σύνθετων τεχνικών προβλημάτων."
         },
         {
-          "en": "Assisted court staff in day-to-day operations to facilitate software adoption and improve digital efficiency within the public sector.",
-          "el": "Υποστήριξα το προσωπικό των δικαστηρίων στις καθημερινές εργασίες, διευκολύνοντας την υιοθέτηση του λογισμικού και βελτιώνοντας την ψηφιακή αποδοτικότητα στον δημόσιο τομέα."
+          "en": "Assisted court staff in their day-to-day operations to facilitate smooth software adoption and improve digital efficiency within the public sector.",
+          "el": "Υποστήριξη του προσωπικού των δικαστηρίων στις καθημερινές λειτουργίες για τη διευκόλυνση της ομαλής υιοθέτησης του λογισμικού και τη βελτίωση της ψηφιακής αποδοτικότητας στον δημόσιο τομέα."
         }
       ]
     },
     {
       "role": {
-        "en": "Reserve Second Lieutenant — Research and IT Corps",
-        "el": "Έφεδρος Ανθυπολοχαγός — Γραφείο Έρευνας & Πληροφορικής"
+        "en": "Reserve Second Lieutenant / Research and IT Corps",
+        "el": "Έφεδρος Ανθυπολοχαγός / Σώμα Έρευνας και Πληροφορικής"
       },
       "organization": {
         "en": "Hellenic Army",
-        "el": "Ελληνικός Στρατός"
+        "el": "Hellenic Army"
       },
       "location": {
         "en": "Orestiada, Greece",
@@ -328,15 +285,15 @@
       "bullets": [
         {
           "en": "Managed information systems reliability and provided comprehensive IT support within the Information Research Office.",
-          "el": "Διαχειρίστηκα την αξιοπιστία των πληροφοριακών συστημάτων και παρείχα ολοκληρωμένη υποστήριξη IT στο Γραφείο Έρευνας Πληροφοριών."
+          "el": "Διαχείριση της αξιοπιστίας συστημάτων πληροφορικής και παροχή ολοκληρωμένης υποστήριξης ΤΠΕ στο Γραφείο Έρευνας Πληροφορικής."
         },
         {
           "en": "Conducted system monitoring, basic server maintenance and user support to ensure smooth IT infrastructure operations.",
-          "el": "Πραγματοποίησα παρακολούθηση συστημάτων, βασική συντήρηση servers και υποστήριξη χρηστών για την ομαλή λειτουργία της υποδομής IT."
+          "el": "Διεξαγωγή παρακολούθησης συστημάτων, βασικής συντήρησης διακομιστών και υποστήριξης χρηστών για τη διασφάλιση της ομαλής λειτουργίας των υποδομών ΤΠΕ."
         },
         {
           "en": "Prepared technical documentation and collaborated with cross-functional teams to troubleshoot technical challenges under strict procedural timelines.",
-          "el": "Συνέταξα τεχνική τεκμηρίωση και συνεργάστηκα με διατμηματικές ομάδες για την επίλυση τεχνικών προκλήσεων υπό αυστηρά διαδικαστικά χρονοδιαγράμματα."
+          "el": "Σύνταξη τεχνικής τεκμηρίωσης και συνεργασία με διαλειτουργικές ομάδες για την αντιμετώπιση τεχνικών προκλήσεων εντός αυστηρών προθεσμιών."
         }
       ]
     },
@@ -360,11 +317,11 @@
       "bullets": [
         {
           "en": "Supported daily sales operations and provided high-quality customer service.",
-          "el": "Υποστήριξα τις καθημερινές λειτουργίες πωλήσεων και παρείχα υψηλής ποιότητας εξυπηρέτηση πελατών."
+          "el": "Υποστήριξη καθημερινών λειτουργιών πωλήσεων και παροχή υψηλής ποιότητας εξυπηρέτησης πελατών."
         },
         {
           "en": "Developed a strong foundational knowledge of modern telecommunications products and technical devices.",
-          "el": "Απέκτησα ισχυρή βασική γνώση σύγχρονων τηλεπικοινωνιακών προϊόντων και τεχνικών συσκευών."
+          "el": "Ανάπτυξη ισχυρών βασικών γνώσεων σχετικά με σύγχρονα τηλεπικοινωνιακά προϊόντα και τεχνικές συσκευές."
         }
       ]
     }
@@ -373,61 +330,81 @@
     {
       "title": {
         "en": "Cybersecurity Lab Projects and Case Studies (MSc)",
-        "el": "Εργαστηριακά Projects & Μελέτες Κυβερνοασφάλειας (MSc)"
+        "el": "Εργαστηριακά Έργα Κυβερνοασφάλειας και Μελέτες Περίπτωσης (MSc)"
       },
       "period": {
-        "en": "Oct 2025 – Jan 2026",
-        "el": "Οκτ 2025 – Ιαν 2026"
+        "en": "Oct 2025 – Present",
+        "el": "Οκτ 2025 – Παρόν"
       },
       "items": [
         {
           "name": {
-            "en": "Penetration Testing and Vulnerability Exploitation",
-            "el": "Penetration Testing & Εκμετάλλευση Ευπαθειών"
+            "en": "Penetration Testing and Exploitation",
+            "el": "Δοκιμές Διείσδυσης και Εκμετάλλευση Ευάλωτων Σημείων"
           },
           "description": {
-            "en": "Conducted full-cycle penetration tests based on the Cyber Kill Chain, exploiting Windows Server vulnerabilities, Heartbleed (CVE-2014-0160) and buffer overflows using Metasploit, Nmap and GDB. Performed Red Teaming on web applications targeting SQLi and XSS via Burp Suite.",
-            "el": "Εκτέλεσα ολοκληρωμένα penetration tests βασισμένα στο Cyber Kill Chain, εκμεταλλευόμενος ευπάθειες Windows Server, το Heartbleed (CVE-2014-0160) και buffer overflows με Metasploit, Nmap και GDB. Πραγματοποίησα Red Teaming σε web εφαρμογές με στόχο SQLi και XSS μέσω Burp Suite."
+            "en": "Conducted full-cycle penetration tests based on the Cyber Kill Chain against Windows Server, Heartbleed (CVE-2014-0160) and buffer-overflow targets using Metasploit, Nmap and GDB; performed web-application Red Teaming (SQLi, XSS) via Burp Suite; reverse engineered vulnerable Android applications with Apktool, JADX, Ghidra and Frida to defeat obfuscation and recover hard-coded credentials.",
+            "el": "Διεξαγωγή δοκιμών διείσδυσης πλήρους κύκλου βασισμένων στο Cyber Kill Chain σε Windows Server, Heartbleed (CVE-2014-0160) και στόχους buffer-overflow με χρήση Metasploit, Nmap και GDB· εκτέλεση Red Teaming σε εφαρμογές ιστού (SQLi, XSS) μέσω Burp Suite· αντίστροφη μηχανική σε ευάλωτες εφαρμογές Android με Apktool, JADX, Ghidra και Frida για παράκαμψη συσκότισης (obfuscation) και ανάκτηση ενσωματωμένων διαπιστευτηρίων."
           }
         },
         {
           "name": {
-            "en": "Network Security and MitM Attacks",
-            "el": "Ασφάλεια Δικτύων & Επιθέσεις MitM"
+            "en": "Network and Wireless Security",
+            "el": "Ασφάλεια Δικτύων και Ασύρματων Επικοινωνιών"
           },
           "description": {
-            "en": "Executed Man-in-the-Middle attacks (ARP/DNS spoofing, TCP session hijacking) and low-level packet sniffing in Kali Linux environments using Wireshark, Ettercap and Python (Scapy).",
-            "el": "Εκτέλεσα επιθέσεις Man-in-the-Middle (ARP/DNS spoofing, TCP session hijacking) και packet sniffing χαμηλού επιπέδου σε περιβάλλοντα Kali Linux με Wireshark, Ettercap και Python (Scapy)."
+            "en": "Executed Man-in-the-Middle attacks (ARP/DNS spoofing, TCP session hijacking) and low-level packet sniffing in Kali Linux using Wireshark, Ettercap and Python (Scapy); completed eight 802.11 case studies spanning monitor-mode frame analysis, deauthentication, WEP/WPS cracking, Evil Twin and rogue-AP deployment, PMKID/KRACK and WPA3 downgrade attacks.",
+            "el": "Εκτέλεση επιθέσεων Man-in-the-Middle (ARP/DNS spoofing, TCP session hijacking) και υποκλοπής πακέτων χαμηλού επιπέδου σε Kali Linux με χρήση Wireshark, Ettercap και Python (Scapy)· ολοκλήρωση οκτώ μελετών περίπτωσης 802.11 που κάλυπταν ανάλυση πλαισίων σε monitor mode, deauthentication, σπάσιμο WEP/WPS, εγκατάσταση Evil Twin και rogue-AP, καθώς και επιθέσεις PMKID/KRACK και υποβάθμισης WPA3 (downgrade)."
           }
         },
         {
           "name": {
-            "en": "Defense-in-Depth and Infrastructure",
-            "el": "Defense-in-Depth & Υποδομές"
+            "en": "Defence-in-Depth and Infrastructure",
+            "el": "Άμυνα σε Βάθος και Υποδομές"
           },
           "description": {
-            "en": "Configured Palo Alto firewalls with strict access policies and set up DNS servers (BIND9) in virtualized environments. Implemented server defenses combining iptables and the ModSecurity WAF to block unauthorized access and web attacks.",
-            "el": "Παραμετροποίησα firewalls Palo Alto με αυστηρές πολιτικές πρόσβασης και έστησα DNS servers (BIND9) σε εικονικά περιβάλλοντα. Υλοποίησα άμυνες server συνδυάζοντας iptables και ModSecurity WAF για αποκλεισμό μη εξουσιοδοτημένης πρόσβασης και web επιθέσεων."
+            "en": "Configured Palo Alto firewalls with strict access policies and deployed DNS servers (BIND9) in virtualised environments; implemented layered server defences combining iptables and ModSecurity WAF to block unauthorised access and web attacks.",
+            "el": "Διαμόρφωση firewalls Palo Alto με αυστηρές πολιτικές πρόσβασης και εγκατάσταση διακομιστών DNS (BIND9) σε εικονικά περιβάλλοντα· εφαρμογή πολυεπίπεδων αμυνών διακομιστή με συνδυασμό iptables και ModSecurity WAF για την παρεμπόδιση μη εξουσιοδοτημένης πρόσβασης και επιθέσεων στον ιστό."
           }
         },
         {
           "name": {
-            "en": "Malware Analysis and Risk Management",
-            "el": "Ανάλυση Κακόβουλου Λογισμικού & Διαχείριση Κινδύνου"
+            "en": "Active Directory, Malware Analysis and Forensics",
+            "el": "Active Directory, Ανάλυση Κακόβουλου Λογισμικού και Ψηφιακή Εγκληματολογία"
           },
           "description": {
-            "en": "Analyzed evasive malware attack chains (shellcode injection, PID spoofing) using Sysmon and System Informer. Evaluated risk management frameworks (ISO/IEC 27005:2022, NIST) and practical GRC tools (SimpleRisk, Monarc, Verinice, EAR/PILAR).",
-            "el": "Ανέλυσα αλυσίδες επιθέσεων κακόβουλου λογισμικού με τεχνικές αποφυγής (shellcode injection, PID spoofing) με Sysmon και System Informer. Αξιολόγησα πλαίσια διαχείρισης κινδύνου (ISO/IEC 27005:2022, NIST) και εργαλεία GRC (SimpleRisk, Monarc, Verinice, EAR/PILAR)."
+            "en": "Executed end-to-end Active Directory kill chains including Kerberos Golden and Diamond Ticket forgery for persistent domain access; analysed evasive malware attack chains (shellcode injection, Parent PID spoofing) with Sysmon and System Informer; performed disk and memory forensics using Autopsy and Volatility to recover artefacts and reconstruct attacker activity.",
+            "el": "Εκτέλεση kill chains Active Directory από άκρο σε άκρο, περιλαμβανομένης της πλαστογράφησης Kerberos Golden και Diamond Ticket για διαρκή πρόσβαση στο domain· ανάλυση αλυσίδων επιθέσεων κακόβουλου λογισμικού με τεχνικές απόκρυψης (shellcode injection, Parent PID spoofing) με χρήση Sysmon και System Informer· διεξαγωγή ψηφιακής εγκληματολογικής ανάλυσης δίσκου και μνήμης με Autopsy και Volatility για την ανάκτηση ψηφιακών ευρημάτων (artefacts) και την ανακατασκευή της δραστηριότητας του εισβολέα."
           }
         },
         {
           "name": {
-            "en": "Lightweight Cryptography and IoT Security",
-            "el": "Ελαφριά Κρυπτογραφία & Ασφάλεια IoT"
+            "en": "AI-Powered Security Systems",
+            "el": "Συστήματα Ασφαλείας με Ισχύ Τεχνητής Νοημοσύνης"
           },
           "description": {
-            "en": "Analyzed the NIST SP 800-232 standard and the Ascon algorithm family, the official lightweight cryptography solution for resource-constrained IoT devices. Evaluated the sponge architecture, AEAD and hashing functions, focusing on the trade-offs between 128-bit security and hardware efficiency.",
-            "el": "Ανέλυσα το πρότυπο NIST SP 800-232 και την οικογένεια αλγορίθμων Ascon, την επίσημη λύση ελαφριάς κρυπτογραφίας για συσκευές IoT με περιορισμένους πόρους. Αξιολόγησα την αρχιτεκτονική sponge, τις λειτουργίες AEAD και hashing, εστιάζοντας στους συμβιβασμούς μεταξύ ασφάλειας 128-bit και αποδοτικότητας υλικού."
+            "en": "Built and evaluated multiple ML-driven security tools - an explainable phishing detector with engineered features (Linear SVC/Random Forest), a hybrid IDS fusing Snort signatures with supervised and unsupervised models (F1 = 0.926), a Zero-Trust adaptive access-control engine (Gradient Boosting, Isolation Forest), an LLM-enhanced SSH honeypot with intent classification, and a three-layer prompt-injection defence benchmark reducing attack success from 6.7% to 0% across Llama 3.1 8B and Mistral 7B.",
+            "el": "Ανάπτυξη και αξιολόγηση πολλαπλών εργαλείων ασφαλείας βασισμένων σε ML - ένας εξηγήσιμος ανιχνευτής phishing με σχεδιασμένα χαρακτηριστικά (Linear SVC/Random Forest), ένα υβριδικό IDS που συνδυάζει υπογραφές Snort με επιβλεπόμενα και μη επιβλεπόμενα μοντέλα (F1 = 0.926), μια προσαρμοστική μηχανή ελέγχου πρόσβασης Zero-Trust (Gradient Boosting, Isolation Forest), ένα SSH honeypot ενισχυμένο με LLM με ταξινόμηση πρόθεσης, και ένα σημείο αναφοράς (benchmark) άμυνας prompt-injection τριών επιπέδων που μειώνει την επιτυχία επίθεσης από 6,7% σε 0% σε Llama 3.1 8B και Mistral 7B."
+          }
+        },
+        {
+          "name": {
+            "en": "Cryptography, Risk Management and Regulatory Analysis",
+            "el": "Κρυπτογραφία, Διαχείριση Κινδύνου και Κανονιστική Ανάλυση"
+          },
+          "description": {
+            "en": "Analysed the NIST SP 800-232 standard and the Ascon lightweight cryptography family for resource-constrained IoT devices; evaluated ISO/IEC 27005:2022 and NIST risk-management frameworks alongside GRC tooling (SimpleRisk, MONARC, Verinice, EAR/PILAR); co-authored a study on Pegasus and Predator spyware under digital constitutionalism, the EU AI Act and GDPR.",
+            "el": "Ανάλυση του προτύπου NIST SP 800-232 και της οικογένειας ελαφριάς κρυπτογραφίας Ascon για συσκευές IoT περιορισμένων πόρων· αξιολόγηση των πλαισίων διαχείρισης κινδύνου ISO/IEC 27005:2022 και NIST μαζί με εργαλεία GRC (SimpleRisk, MONARC, Verinice, EAR/PILAR)· συν-συγγραφή μελέτης για τα λογισμικά κατασκοπείας Pegasus και Predator υπό το πρίσμα του ψηφιακού συνταγματισμού, της Πράξης για την Τεχνητή Νοημοσύνη της ΕΕ (EU AI Act) και του GDPR."
+          }
+        },
+        {
+          "name": {
+            "en": "Educational Contribution - CyberGame: Hack N Learn",
+            "el": "Εκπαιδευτική Συνεισφορά - CyberGame: Hack N Learn"
+          },
+          "description": {
+            "en": "Participated in an educational cybersecurity initiative by delivering interactive game-based sessions on dumpster diving and SIM card cloning as physical-security and social-engineering attack techniques, raising security awareness among a non-technical audience.",
+            "el": "Συμμετοχή σε εκπαιδευτική πρωτοβουλία κυβερνοασφάλειας παραδίδοντας διαδραστικές συνεδρίες βασισμένες σε παιχνίδι σχετικά με το dumpster diving και την κλωνοποίηση καρτών SIM ως τεχνικές επιθέσεων φυσικής ασφάλειας και κοινωνικής μηχανικής, ενισχύοντας την ευαισθητοποίηση σε θέματα ασφάλειας σε μη τεχνικό κοινό."
           }
         }
       ]
@@ -435,21 +412,21 @@
     {
       "title": {
         "en": "Software Engineering and Web Development Projects (BSc)",
-        "el": "Projects Τεχνολογίας Λογισμικού & Web Development (BSc)"
+        "el": "Έργα Μηχανικής Λογισμικού και Ανάπτυξης Ιστού (BSc)"
       },
       "period": {
-        "en": "Oct 2020 – Jul 2025",
+        "en": "Oct 2020 – July 2025",
         "el": "Οκτ 2020 – Ιούλ 2025"
       },
       "items": [
         {
           "name": {
             "en": "Web-Based Educational Platform (Thesis)",
-            "el": "Διαδικτυακή Εκπαιδευτική Πλατφόρμα (Διπλωματική)"
+            "el": "Διαδικτυακή Εκπαιδευτική Πλατφόρμα (Διπλωματική Εργασία)"
           },
           "description": {
-            "en": "Developed a full-stack application with an integrated interactive Unity/C# game to evaluate students' Python skills. Built the front-end with HTML/CSS/JS and Bootstrap, using Firebase for cloud-based user data storage.",
-            "el": "Ανέπτυξα full-stack εφαρμογή με ενσωματωμένο διαδραστικό παιχνίδι Unity/C# για την αξιολόγηση των δεξιοτήτων Python των μαθητών. Υλοποίησα το front-end με HTML/CSS/JS και Bootstrap, χρησιμοποιώντας Firebase για αποθήκευση δεδομένων χρηστών στο cloud."
+            "en": "Developed a full-stack application with an integrated interactive Unity/C# game to evaluate students' Python skills. Built the front-end using HTML/CSS/JS and Bootstrap, utilizing Firebase for cloud-based user data storage.",
+            "el": "Ανάπτυξη εφαρμογής full-stack με ενσωματωμένο διαδραστικό παιχνίδι Unity/C# για την αξιολόγηση των δεξιοτήτων των μαθητών στην Python. Κατασκευή του front-end με χρήση HTML/CSS/JS και Bootstrap, με αξιοποίηση του Firebase για την αποθήκευση δεδομένων χρηστών στο cloud."
           }
         },
         {
@@ -458,18 +435,18 @@
             "el": "Ανάπτυξη Παιχνιδιών"
           },
           "description": {
-            "en": "Created a 2D arcade-style game (\"Oh-Mummy\" clone) in Python and developed multiple 2D interactive games in Unity using C# scripting.",
-            "el": "Δημιούργησα ένα 2D arcade παιχνίδι (clone του «Oh-Mummy») σε Python και ανέπτυξα πολλαπλά 2D διαδραστικά παιχνίδια σε Unity με C#."
+            "en": "Created a 2D arcade-style game (\"Oh-Mummy\" clone) in Python and developed multiple 2D interactive games in Unity utilizing C# scripting.",
+            "el": "Δημιουργία παιχνιδιού 2D τύπου arcade (κλώνος «Oh-Mummy») σε Python και ανάπτυξη πολλαπλών διαδραστικών παιχνιδιών 2D σε Unity με χρήση C# scripting."
           }
         },
         {
           "name": {
             "en": "System Programming and Media Processing",
-            "el": "Προγραμματισμός Συστημάτων & Επεξεργασία Πολυμέσων"
+            "el": "Προγραμματισμός Συστημάτων και Επεξεργασία Πολυμέσων"
           },
           "description": {
-            "en": "Implemented digital image processing applications in C++ (OpenCV), applied video compression techniques using VVenC and developed Linux system programs in C (pipes, sockets) and Bash scripting.",
-            "el": "Υλοποίησα εφαρμογές ψηφιακής επεξεργασίας εικόνας σε C++ (OpenCV), εφάρμοσα τεχνικές συμπίεσης βίντεο με VVenC και ανέπτυξα προγράμματα συστήματος Linux σε C (pipes, sockets) και Bash scripting."
+            "en": "Implemented digital image processing applications in C++ (OpenCV), applied video compression techniques using VVenC and developed Linux system programs utilizing C (pipes, sockets) and Bash scripting.",
+            "el": "Εφαρμογή εφαρμογών ψηφιακής επεξεργασίας εικόνας σε C++ (OpenCV), εφαρμογή τεχνικών συμπίεσης βίντεο με χρήση VVenC και ανάπτυξη προγραμμάτων συστήματος Linux με χρήση C (pipes, sockets) και Bash scripting."
           }
         }
       ]
@@ -479,11 +456,11 @@
     {
       "title": {
         "en": "Volunteer Blood and Bone Marrow Donor",
-        "el": "Εθελοντής Αιμοδότης & Δότης Μυελού των Οστών"
+        "el": "Εθελοντής Αιμοδότης και Δότης Μυελού των Οστών"
       },
       "description": {
         "en": "Registered bone marrow donor (since August 2021) and regular blood donor (since October 2021), demonstrating a continuous and active commitment to public health and social responsibility.",
-        "el": "Εγγεγραμμένος δότης μυελού των οστών (από τον Αύγουστο 2021) και τακτικός αιμοδότης (από τον Οκτώβριο 2021), με συνεχή και ενεργή δέσμευση στη δημόσια υγεία και την κοινωνική ευθύνη."
+        "el": "Εγγεγραμμένος δότης μυελού των οστών (από τον Αύγουστο του 2021) και τακτικός αιμοδότης (από τον Οκτώβριο του 2021), επιδεικνύοντας συνεχή και ενεργή δέσμευση στη δημόσια υγεία και την κοινωνική ευθύνη."
       }
     }
   ]
