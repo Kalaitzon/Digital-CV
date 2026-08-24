@@ -1,0 +1,241 @@
+/*
+ * Theme definitions.
+ *
+ * Every theme sets the same set of custom properties, so no component ever
+ * needs to know which theme is active. `data-theme` is applied to <html>
+ * by ThemeContext.
+ *
+ * Property groups:
+ *   --desktop-*   the wallpaper area
+ *   --win-*       window frame, title bar and body
+ *   --bar-*       taskbar and start button
+ *   --ui-*        shared typography / accents / borders
+ */
+
+:root,
+[data-theme="xp-blue"] {
+  --font-ui: "Trebuchet MS", "Segoe UI", Tahoma, "DejaVu Sans", sans-serif;
+  --font-body: Tahoma, "Segoe UI", Verdana, "DejaVu Sans", sans-serif;
+  --font-mono: "Consolas", "Courier New", monospace;
+
+  /*
+   * Rolling green hill under a summer sky — drawn here as an inline SVG
+   * rather than shipped as a photograph, so the wallpaper costs nothing to
+   * download, scales to any screen and carries no third-party image with it.
+   */
+  --desktop-bg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900' preserveAspectRatio='xMidYMid slice'%3E%3Cdefs%3E%3ClinearGradient id='sky' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0' stop-color='%231a4fb4'/%3E%3Cstop offset='0.55' stop-color='%234f9ce8'/%3E%3Cstop offset='1' stop-color='%23a8d6f5'/%3E%3C/linearGradient%3E%3ClinearGradient id='hill' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0' stop-color='%237fc243'/%3E%3Cstop offset='0.45' stop-color='%235aa832'/%3E%3Cstop offset='1' stop-color='%232f7a1f'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='1600' height='900' fill='url(%23sky)'/%3E%3C!-- Clouds sit in the right two-thirds so they never wash out the icon column. --%3E%3Cg fill='%23ffffff' opacity='0.85'%3E%3Cellipse cx='980' cy='120' rx='150' ry='40'/%3E%3Cellipse cx='1060' cy='104' rx='95' ry='50'/%3E%3Cellipse cx='1330' cy='240' rx='130' ry='32'/%3E%3Cellipse cx='1390' cy='226' rx='80' ry='40'/%3E%3Cellipse cx='760' cy='300' rx='105' ry='24'/%3E%3Cellipse cx='1180' cy='400' rx='120' ry='22'/%3E%3C/g%3E%3Cpath d='M0 640 C 300 520 620 486 900 520 C 1180 554 1400 616 1600 596 L1600 900 L0 900 Z' fill='url(%23hill)'/%3E%3Cpath d='M0 720 C 340 640 760 640 1120 690 C 1320 718 1460 742 1600 730 L1600 900 L0 900 Z' fill='%23439227' opacity='0.55'/%3E%3C/svg%3E") center / cover no-repeat, linear-gradient(180deg, #2a5fd8 0%, #4a8fe0 55%, #3f8a2e 100%);
+  --desktop-text: #ffffff;
+  --desktop-footnote: #f4faff;
+
+  --win-radius: 8px 8px 0 0;
+  --win-frame: #0055ea;
+  --win-frame-width: 3px;
+  --win-title-bg: linear-gradient(180deg, #0058ee 0%, #3a93ff 8%, #288eff 40%, #0054e3 88%, #0050ee 100%);
+  --win-title-bg-inactive: linear-gradient(180deg, #7ba2e7 0%, #9db9ee 40%, #7ea3e8 100%);
+  --win-title-text: #ffffff;
+  --win-title-text-inactive: #dbe8ff;
+  --win-title-shadow: 1px 1px 1px rgba(0, 0, 0, 0.45);
+  --win-body-bg: #ffffff;
+  --win-body-text: #14213d;
+  --win-chrome-bg: #ece9d8;
+  --win-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  --win-btn-close: linear-gradient(180deg, #e05a4a 0%, #d63a25 50%, #b32b18 100%);
+  --win-btn: linear-gradient(180deg, #4f9dfd 0%, #1c6fe0 50%, #0d5bc4 100%);
+  /* Glyph colour inside the minimize/maximize/close buttons. */
+  --win-btn-fg: #ffffff;
+  --win-btn-close-fg: #ffffff;
+
+  /* Primary call-to-action button — always high contrast against the window. */
+  --btn-bg: #1c6fe0;
+  --btn-bg-hover: #2a82f5;
+  --btn-fg: #ffffff;
+  --btn-border: #0d4ba0;
+
+  --bar-bg: linear-gradient(180deg, #1f5fd8 0%, #3f8bee 9%, #2a76e8 18%, #1157d8 92%, #0842b8 100%);
+  --bar-text: #ffffff;
+  --bar-border: #0842b8;
+  --bar-btn-active: rgba(255, 255, 255, 0.28);
+  --start-bg: linear-gradient(180deg, #4aa03a 0%, #3c8f2c 40%, #2f7a22 100%);
+  --start-text: #ffffff;
+  --start-panel-bg: #ffffff;
+
+  --ui-accent: #0a56c8;
+  --ui-accent-soft: #e3edfb;
+  --ui-muted: #5a6b85;
+  --ui-border: #a8b7cd;
+  --ui-hilight: #316ac5;
+  --ui-hilight-text: #ffffff;
+  --ui-bevel-light: #ffffff;
+  --ui-bevel-dark: #7f8ea3;
+  --ui-selection-outline: rgba(255, 255, 255, 0.85);
+  --ui-scan: none;
+}
+
+[data-theme="xp-silver"] {
+  --desktop-bg: linear-gradient(180deg, #5c6379 0%, #8d94a8 50%, #c3c8d6 100%);
+  --win-frame: #8189a5;
+  --win-title-bg: linear-gradient(180deg, #979dbb 0%, #c3c8d6 10%, #a1a8c2 45%, #767d99 100%);
+  --win-title-bg-inactive: linear-gradient(180deg, #cbcfdb 0%, #b3b8c8 100%);
+  --win-title-text: #1b1f2e;
+  --win-title-text-inactive: #4a5163;
+  --win-title-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+  --win-btn: linear-gradient(180deg, #c9cddc 0%, #9aa1bb 50%, #7d8499 100%);
+  --bar-bg: linear-gradient(180deg, #9096ae 0%, #b8bdcd 9%, #9aa0b6 18%, #767d99 92%, #626880 100%);
+  --bar-text: #14182a;
+  --bar-border: #626880;
+  --start-bg: linear-gradient(180deg, #8d94a8 0%, #767d99 40%, #626880 100%);
+  --ui-accent: #4a5273;
+  --ui-accent-soft: #ecedf3;
+  --ui-hilight: #8189a5;
+  --ui-border: #b6bac7;
+  --btn-bg: #4a5273;
+  --btn-bg-hover: #5d6790;
+  --btn-fg: #ffffff;
+  --btn-border: #333a52;
+  --desktop-watermark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 76'%3E%3Cg fill='%23000000'%3E%3Crect x='2' y='30' width='5' height='5' opacity='0.9'/%3E%3Crect x='10' y='22' width='5' height='5' opacity='0.75'/%3E%3Crect x='10' y='40' width='5' height='5' opacity='0.75'/%3E%3Crect x='18' y='14' width='5' height='5' opacity='0.6'/%3E%3Crect x='18' y='48' width='5' height='5' opacity='0.6'/%3E%3Crect x='2' y='46' width='4' height='4' opacity='0.5'/%3E%3Crect x='26' y='8' width='4' height='4' opacity='0.4'/%3E%3Crect x='26' y='56' width='4' height='4' opacity='0.4'/%3E%3C/g%3E%3Cpath d='M40 10 L96 2 L96 66 L40 74 Z' fill='%23000000'/%3E%3Cpath d='M46 17 L66 14 L66 36 L46 38 Z' fill='%23f25022'/%3E%3Cpath d='M70 13 L91 10 L91 33 L70 36 Z' fill='%237fba00'/%3E%3Cpath d='M46 41 L66 39 L66 61 L46 63 Z' fill='%2300a4ef'/%3E%3Cpath d='M70 39 L91 36 L91 59 L70 62 Z' fill='%23ffb900'/%3E%3C/svg%3E");
+  --desktop-watermark-opacity: 0.1;
+  /* Graphite on the silver wallpaper, warmer than plain white. */
+  --desktop-footnote: #1b2033;
+  --desktop-footnote-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+[data-theme="royale-noir"] {
+  --desktop-bg: radial-gradient(ellipse at 50% 30%, #2b3742 0%, #161b21 55%, #0a0d10 100%);
+  --win-frame: #2b3540;
+  --win-title-bg: linear-gradient(180deg, #3d4c5c 0%, #2b3742 45%, #1c242c 100%);
+  --win-title-bg-inactive: linear-gradient(180deg, #2a3138 0%, #1e242a 100%);
+  --win-title-text: #e8eef4;
+  --win-title-text-inactive: #8c99a6;
+  --win-body-bg: #1b2027;
+  --win-body-text: #dde5ee;
+  --win-chrome-bg: #242b33;
+  --win-btn: linear-gradient(180deg, #4a5a6b 0%, #33404d 50%, #232c35 100%);
+  --win-btn-close: linear-gradient(180deg, #b8453a 0%, #8f2f26 100%);
+  --bar-bg: linear-gradient(180deg, #333d47 0%, #232b33 20%, #12171c 100%);
+  --bar-text: #e8eef4;
+  --bar-border: #0a0d10;
+  --start-bg: linear-gradient(180deg, #4a5a6b 0%, #303c48 45%, #202932 100%);
+  --start-panel-bg: #1b2027;
+  --ui-accent: #6fa8dc;
+  --ui-accent-soft: #232d38;
+  --desktop-watermark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 76'%3E%3Cg fill='%23000000'%3E%3Crect x='2' y='30' width='5' height='5' opacity='0.9'/%3E%3Crect x='10' y='22' width='5' height='5' opacity='0.75'/%3E%3Crect x='10' y='40' width='5' height='5' opacity='0.75'/%3E%3Crect x='18' y='14' width='5' height='5' opacity='0.6'/%3E%3Crect x='18' y='48' width='5' height='5' opacity='0.6'/%3E%3Crect x='2' y='46' width='4' height='4' opacity='0.5'/%3E%3Crect x='26' y='8' width='4' height='4' opacity='0.4'/%3E%3Crect x='26' y='56' width='4' height='4' opacity='0.4'/%3E%3C/g%3E%3Cpath d='M40 10 L96 2 L96 66 L40 74 Z' fill='%23000000'/%3E%3Cpath d='M46 17 L66 14 L66 36 L46 38 Z' fill='%23f25022'/%3E%3Cpath d='M70 13 L91 10 L91 33 L70 36 Z' fill='%237fba00'/%3E%3Cpath d='M46 41 L66 39 L66 61 L46 63 Z' fill='%2300a4ef'/%3E%3Cpath d='M70 39 L91 36 L91 59 L70 62 Z' fill='%23ffb900'/%3E%3C/svg%3E");
+  --desktop-watermark-opacity: 0.08;
+  /* The one blue note on an otherwise black desktop. */
+  --desktop-footnote: #7fb6e3;
+  --ui-muted: #8fa0b2;
+  --ui-border: #3a444f;
+  --ui-hilight: #3d5a78;
+  --ui-bevel-light: #414c58;
+  --ui-bevel-dark: #0f1418;
+  --btn-bg: #4a6a8f;
+  --btn-bg-hover: #5c81ab;
+  --btn-fg: #ffffff;
+  --btn-border: #24313f;
+}
+
+[data-theme="win98"] {
+  --font-ui: Tahoma, "MS Sans Serif", "DejaVu Sans", sans-serif;
+  --font-body: Tahoma, "MS Sans Serif", "DejaVu Sans", sans-serif;
+
+  --desktop-bg: #008080;
+  --win-radius: 0;
+  --win-frame: #c0c0c0;
+  --win-frame-width: 2px;
+  --win-title-bg: linear-gradient(90deg, #000080 0%, #1084d0 100%);
+  --win-title-bg-inactive: linear-gradient(90deg, #808080 0%, #b5b5b5 100%);
+  --win-title-text: #ffffff;
+  --win-title-text-inactive: #dcdcdc;
+  --win-title-shadow: none;
+  --win-body-bg: #ffffff;
+  --win-body-text: #000000;
+  --win-chrome-bg: #c0c0c0;
+  --win-shadow: none;
+  --win-btn: #c0c0c0;
+  --win-btn-close: #c0c0c0;
+  /* Classic grey buttons need dark glyphs to stay readable. */
+  --win-btn-fg: #000000;
+  --win-btn-close-fg: #000000;
+
+  --bar-bg: #c0c0c0;
+  --bar-text: #000000;
+  --bar-border: #868686;
+  --bar-btn-active: #b0b0b0;
+  --start-bg: #c0c0c0;
+  --start-text: #000000;
+  --start-panel-bg: #c0c0c0;
+
+  --ui-accent: #000080;
+  --ui-accent-soft: #dfdfdf;
+  --ui-muted: #404040;
+  --ui-border: #868686;
+  --ui-hilight: #000080;
+  --ui-bevel-light: #ffffff;
+  --ui-bevel-dark: #808080;
+  /* The era's emblem, sitting quietly on the flat teal desktop. */
+  --desktop-watermark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 76'%3E%3Cg fill='%23000000'%3E%3Crect x='2' y='30' width='5' height='5' opacity='0.9'/%3E%3Crect x='10' y='22' width='5' height='5' opacity='0.75'/%3E%3Crect x='10' y='40' width='5' height='5' opacity='0.75'/%3E%3Crect x='18' y='14' width='5' height='5' opacity='0.6'/%3E%3Crect x='18' y='48' width='5' height='5' opacity='0.6'/%3E%3Crect x='2' y='46' width='4' height='4' opacity='0.5'/%3E%3Crect x='26' y='8' width='4' height='4' opacity='0.4'/%3E%3Crect x='26' y='56' width='4' height='4' opacity='0.4'/%3E%3C/g%3E%3Cpath d='M40 10 L96 2 L96 66 L40 74 Z' fill='%23000000'/%3E%3Cpath d='M46 17 L66 14 L66 36 L46 38 Z' fill='%23f25022'/%3E%3Cpath d='M70 13 L91 10 L91 33 L70 36 Z' fill='%237fba00'/%3E%3Cpath d='M46 41 L66 39 L66 61 L46 63 Z' fill='%2300a4ef'/%3E%3Cpath d='M70 39 L91 36 L91 59 L70 62 Z' fill='%23ffb900'/%3E%3C/svg%3E");
+  --desktop-watermark-opacity: 0.16;
+  /* Ink on the teal desktop, the way 98's own desktop text read. */
+  --desktop-footnote: #002b2b;
+  --desktop-footnote-shadow: 1px 1px 0 rgba(255, 255, 255, 0.35);
+  --btn-bg: #c0c0c0;
+  --btn-bg-hover: #d4d4d4;
+  --btn-fg: #000000;
+  --btn-border: #000000;
+}
+
+[data-theme="matrix"] {
+  --font-ui: "Consolas", "DejaVu Sans Mono", "Courier New", monospace;
+  --font-body: "Consolas", "DejaVu Sans Mono", "Courier New", monospace;
+
+  --desktop-bg: radial-gradient(ellipse at 50% 40%, #04240f 0%, #010b05 60%, #000000 100%);
+  --desktop-text: #00ff41;
+  /* Dimmer phosphor, as if the footnotes were burnt in behind the prompt. */
+  --desktop-footnote: #12b23a;
+  --desktop-footnote-shadow: 0 0 6px rgba(0, 255, 65, 0.45);
+  --win-radius: 0;
+  --win-frame: #00b52d;
+  --win-frame-width: 1px;
+  --win-title-bg: linear-gradient(180deg, #063d18 0%, #02240e 100%);
+  --win-title-bg-inactive: linear-gradient(180deg, #04220d 0%, #011407 100%);
+  --win-title-text: #00ff41;
+  --win-title-text-inactive: #0a8f2c;
+  --win-title-shadow: 0 0 6px rgba(0, 255, 65, 0.75);
+  --win-body-bg: #020a04;
+  --win-body-text: #46ff7a;
+  --win-chrome-bg: #041206;
+  --win-shadow: 0 0 22px rgba(0, 255, 65, 0.25);
+  --win-btn: #04220d;
+  --win-btn-close: #2a0808;
+  --win-btn-fg: #00ff41;
+  --win-btn-close-fg: #ff6b6b;
+
+  --bar-bg: linear-gradient(180deg, #04220d 0%, #010b05 100%);
+  --bar-text: #00ff41;
+  --bar-border: #00b52d;
+  --bar-btn-active: rgba(0, 255, 65, 0.18);
+  --start-bg: linear-gradient(180deg, #063d18 0%, #02240e 100%);
+  --start-text: #00ff41;
+  --start-panel-bg: #020a04;
+
+  --ui-accent: #00ff41;
+  --ui-accent-soft: #04220d;
+  --ui-muted: #2f9c4d;
+  --ui-border: #0a6b23;
+  --ui-hilight: #00ff41;
+  --ui-hilight-text: #010b05;
+  --ui-bevel-light: #0a6b23;
+  --ui-bevel-dark: #010b05;
+  --ui-selection-outline: rgba(0, 255, 65, 0.8);
+  /* CRT scanline overlay, only enabled on this theme. */
+  --ui-scan: repeating-linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0px,
+    rgba(0, 0, 0, 0) 2px,
+    rgba(0, 0, 0, 0.22) 3px,
+    rgba(0, 0, 0, 0.22) 4px
+  );
+  --btn-bg: #063d18;
+  --btn-bg-hover: #0a5c24;
+  --btn-fg: #00ff41;
+  --btn-border: #00ff41;
+}

@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local secrets — never commit
+.env
+.env.local
+
+# NOTE: public/CV_EN.pdf and public/CV_EL.pdf are deliberately NOT ignored.
+# The uploaded one is committed by the import endpoint and must stay tracked,
+# and the generated one is rewritten on every build anyway.

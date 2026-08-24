@@ -1,0 +1,490 @@
+{
+  "meta": {
+    "generatedAt": null,
+    "source": "manual",
+    "sourceLanguage": "en",
+    "availableLanguages": [
+      "en",
+      "el"
+    ],
+    "resumeLanguages": [
+      "en"
+    ]
+  },
+  "person": {
+    "firstName": {
+      "en": "Ioannis",
+      "el": "Ιωάννης"
+    },
+    "lastName": {
+      "en": "Kalaitzidis",
+      "el": "Καλαϊτζίδης"
+    },
+    "headline": {
+      "en": "MSc Student in Cybersecurity & Artificial Intelligence",
+      "el": "Μεταπτυχιακός Φοιτητής Κυβερνοασφάλειας & Τεχνητής Νοημοσύνης"
+    }
+  },
+  "contact": [
+    {
+      "id": "email",
+      "label": {
+        "en": "E-mail",
+        "el": "E-mail"
+      },
+      "value": "john.kalaitzidis.2002@gmail.com",
+      "href": "mailto:john.kalaitzidis.2002@gmail.com"
+    }
+  ],
+  "personalInfo": [
+    {
+      "label": {
+        "en": "Name",
+        "el": "Όνομα"
+      },
+      "value": {
+        "en": "Ioannis",
+        "el": "Ιωάννης"
+      }
+    },
+    {
+      "label": {
+        "en": "Surname",
+        "el": "Επώνυμο"
+      },
+      "value": {
+        "en": "Kalaitzidis",
+        "el": "Καλαϊτζίδης"
+      }
+    },
+    {
+      "label": {
+        "en": "Date of Birth",
+        "el": "Ημερομηνία Γέννησης"
+      },
+      "value": {
+        "en": "16/01/2002",
+        "el": "16/01/2002"
+      }
+    },
+    {
+      "label": {
+        "en": "Birth Place",
+        "el": "Τόπος Γέννησης"
+      },
+      "value": {
+        "en": "Xanthi, Greece",
+        "el": "Ξάνθη, Ελλάδα"
+      }
+    },
+    {
+      "label": {
+        "en": "Nationality",
+        "el": "Υπηκοότητα"
+      },
+      "value": {
+        "en": "Greek",
+        "el": "Ελληνική"
+      }
+    },
+    {
+      "label": {
+        "en": "Languages",
+        "el": "Γλώσσες"
+      },
+      "value": {
+        "en": "Greek (Native), English (C2 Proficiency), Italian (A1)",
+        "el": "Ελληνικά (Μητρική), Αγγλικά (C2 Proficiency), Ιταλικά (A1)"
+      }
+    },
+    {
+      "label": {
+        "en": "Driver's License",
+        "el": "Άδεια Οδήγησης"
+      },
+      "value": {
+        "en": "A1, B",
+        "el": "A1, B"
+      }
+    },
+    {
+      "label": {
+        "en": "Military Service",
+        "el": "Στρατιωτική Θητεία"
+      },
+      "value": {
+        "en": "Completed",
+        "el": "Ολοκληρωμένη"
+      }
+    }
+  ],
+  "summary": {
+    "en": "MSc student in Cybersecurity and Artificial Intelligence with an academic background in Informatics and Telecommunications. Gained practical exposure to web development and software programming through academic projects, complemented by professional experience in 1st/2nd-level IT systems support within the public sector. Focused on applying theoretical knowledge to practice, demonstrated through multiple hands-on cybersecurity lab projects. Highly motivated to leverage problem-solving skills and technical foundations to protect digital infrastructures in a cybersecurity role.",
+    "el": "Μεταπτυχιακός φοιτητής Κυβερνοασφάλειας και Τεχνητής Νοημοσύνης με ακαδημαϊκό υπόβαθρο στην Πληροφορική και τις Τηλεπικοινωνίες. Έχω αποκτήσει πρακτική εμπειρία σε web development και προγραμματισμό λογισμικού μέσα από ακαδημαϊκά projects, σε συνδυασμό με επαγγελματική εμπειρία σε υποστήριξη συστημάτων 1ου/2ου επιπέδου στον δημόσιο τομέα. Εστιάζω στην εφαρμογή της θεωρίας στην πράξη, όπως αποδεικνύεται από πολλαπλά εργαστηριακά projects κυβερνοασφάλειας. Στόχος μου είναι να αξιοποιήσω τις ικανότητές μου στην επίλυση προβλημάτων και το τεχνικό μου υπόβαθρο για την προστασία ψηφιακών υποδομών σε ρόλο κυβερνοασφάλειας."
+  },
+  "education": [
+    {
+      "degree": {
+        "en": "MSc, Cybersecurity and Artificial Intelligence Technologies",
+        "el": "MSc, Τεχνολογίες Κυβερνοασφάλειας και Τεχνητής Νοημοσύνης"
+      },
+      "institution": {
+        "en": "University of Piraeus",
+        "el": "Πανεπιστήμιο Πειραιώς"
+      },
+      "period": {
+        "en": "Expected graduation: March 2027",
+        "el": "Αναμενόμενη αποφοίτηση: Μάρτιος 2027"
+      },
+      "highlights": [
+        {
+          "en": "Erasmus+ Mobility: selected to conduct Master's Thesis research at Sapienza University of Rome (Winter Semester 2026–2027).",
+          "el": "Erasmus+ Mobility: επιλογή για εκπόνηση έρευνας διπλωματικής εργασίας στο Sapienza University of Rome (Χειμερινό Εξάμηνο 2026–2027)."
+        }
+      ]
+    },
+    {
+      "degree": {
+        "en": "BSc, Informatics and Telecommunications",
+        "el": "BSc, Πληροφορική και Τηλεπικοινωνίες"
+      },
+      "institution": {
+        "en": "University of Thessaly",
+        "el": "Πανεπιστήμιο Θεσσαλίας"
+      },
+      "period": {
+        "en": "Graduated July 2025",
+        "el": "Αποφοίτηση Ιούλιος 2025"
+      },
+      "highlights": [
+        {
+          "en": "Ranked 1st in graduating class.",
+          "el": "1η θέση στη σειρά αποφοίτησης."
+        },
+        {
+          "en": "Thesis: \"Web-based educational application with a game-based quiz for evaluating and learning Python programming in secondary education\" (Grade: 10/10).",
+          "el": "Διπλωματική: «Διαδικτυακή εκπαιδευτική εφαρμογή με παιχνίδι-κουίζ για την αξιολόγηση και εκμάθηση προγραμματισμού Python στη δευτεροβάθμια εκπαίδευση» (Βαθμός: 10/10)."
+        },
+        {
+          "en": "Certification: Pedagogical Competence.",
+          "el": "Πιστοποίηση: Παιδαγωγική Επάρκεια."
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "label": {
+        "en": "Programming",
+        "el": "Προγραμματισμός"
+      },
+      "items": [
+        "Python",
+        "C",
+        "C++",
+        "Java",
+        "C#",
+        "Bash",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "label": {
+        "en": "Cybersecurity & Network Tools",
+        "el": "Εργαλεία Κυβερνοασφάλειας & Δικτύων"
+      },
+      "items": [
+        "Metasploit",
+        "Burp Suite",
+        "Wireshark",
+        "Nmap",
+        "Palo Alto",
+        "GDB",
+        "Scapy",
+        "Ettercap",
+        "ModSecurity"
+      ]
+    },
+    {
+      "label": {
+        "en": "Frameworks, Databases & Dev Tools",
+        "el": "Frameworks, Βάσεις Δεδομένων & Εργαλεία"
+      },
+      "items": [
+        "Unity",
+        "OpenCV",
+        "Firebase",
+        "Bootstrap",
+        "VVenC Encoder"
+      ]
+    },
+    {
+      "label": {
+        "en": "Operating Systems",
+        "el": "Λειτουργικά Συστήματα"
+      },
+      "items": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ]
+    },
+    {
+      "label": {
+        "en": "Languages",
+        "el": "Γλώσσες"
+      },
+      "items": [
+        "English (C2)",
+        "Greek (Native)",
+        "Italian (A1)"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": {
+        "en": "Introduction to Cloud",
+        "el": "Introduction to Cloud"
+      },
+      "issuer": {
+        "en": "Grow with Google — May 2024",
+        "el": "Grow with Google — Μάιος 2024"
+      }
+    },
+    {
+      "name": {
+        "en": "Network Basics",
+        "el": "Network Basics"
+      },
+      "issuer": {
+        "en": "CISCO — in progress",
+        "el": "CISCO — σε εξέλιξη"
+      }
+    },
+    {
+      "name": {
+        "en": "CompTIA Security+",
+        "el": "CompTIA Security+"
+      },
+      "issuer": {
+        "en": "CompTIA — in progress",
+        "el": "CompTIA — σε εξέλιξη"
+      }
+    }
+  ],
+  "experience": [
+    {
+      "role": {
+        "en": "IT Support Trainer and Support",
+        "el": "Εκπαιδευτής & Τεχνική Υποστήριξη IT"
+      },
+      "organization": {
+        "en": "Netcompany",
+        "el": "Netcompany"
+      },
+      "location": {
+        "en": "Orestiada – Didymoteicho, Greece",
+        "el": "Ορεστιάδα – Διδυμότειχο, Ελλάδα"
+      },
+      "period": {
+        "en": "Jan 2026 – May 2026",
+        "el": "Ιαν 2026 – Μάι 2026"
+      },
+      "bullets": [
+        {
+          "en": "Provided on-the-job guidance and comprehensive 1st and 2nd-level IT support to judicial employees in civil court departments and the prosecution office, ensuring a smooth transition to a newly developed digital application.",
+          "el": "Παρείχα καθοδήγηση στον χώρο εργασίας και ολοκληρωμένη υποστήριξη IT 1ου και 2ου επιπέδου σε δικαστικούς υπαλλήλους πολιτικών τμημάτων και εισαγγελίας, εξασφαλίζοντας ομαλή μετάβαση σε νέα ψηφιακή εφαρμογή."
+        },
+        {
+          "en": "Mastered the application's functionality and civil court workflows using official technical manuals, resolving routine user inquiries and troubleshooting complex technical issues.",
+          "el": "Εξοικειώθηκα πλήρως με τη λειτουργικότητα της εφαρμογής και τις ροές εργασίας των πολιτικών δικαστηρίων μέσω επίσημων τεχνικών εγχειριδίων, επιλύοντας καθημερινά ερωτήματα χρηστών και σύνθετα τεχνικά προβλήματα."
+        },
+        {
+          "en": "Assisted court staff in day-to-day operations to facilitate software adoption and improve digital efficiency within the public sector.",
+          "el": "Υποστήριξα το προσωπικό των δικαστηρίων στις καθημερινές εργασίες, διευκολύνοντας την υιοθέτηση του λογισμικού και βελτιώνοντας την ψηφιακή αποδοτικότητα στον δημόσιο τομέα."
+        }
+      ]
+    },
+    {
+      "role": {
+        "en": "Reserve Second Lieutenant — Research and IT Corps",
+        "el": "Έφεδρος Ανθυπολοχαγός — Γραφείο Έρευνας & Πληροφορικής"
+      },
+      "organization": {
+        "en": "Hellenic Army",
+        "el": "Ελληνικός Στρατός"
+      },
+      "location": {
+        "en": "Orestiada, Greece",
+        "el": "Ορεστιάδα, Ελλάδα"
+      },
+      "period": {
+        "en": "Nov 2024 – Jan 2026",
+        "el": "Νοε 2024 – Ιαν 2026"
+      },
+      "bullets": [
+        {
+          "en": "Managed information systems reliability and provided comprehensive IT support within the Information Research Office.",
+          "el": "Διαχειρίστηκα την αξιοπιστία των πληροφοριακών συστημάτων και παρείχα ολοκληρωμένη υποστήριξη IT στο Γραφείο Έρευνας Πληροφοριών."
+        },
+        {
+          "en": "Conducted system monitoring, basic server maintenance and user support to ensure smooth IT infrastructure operations.",
+          "el": "Πραγματοποίησα παρακολούθηση συστημάτων, βασική συντήρηση servers και υποστήριξη χρηστών για την ομαλή λειτουργία της υποδομής IT."
+        },
+        {
+          "en": "Prepared technical documentation and collaborated with cross-functional teams to troubleshoot technical challenges under strict procedural timelines.",
+          "el": "Συνέταξα τεχνική τεκμηρίωση και συνεργάστηκα με διατμηματικές ομάδες για την επίλυση τεχνικών προκλήσεων υπό αυστηρά διαδικαστικά χρονοδιαγράμματα."
+        }
+      ]
+    },
+    {
+      "role": {
+        "en": "Retail Shop Trainee",
+        "el": "Ασκούμενος Καταστήματος Λιανικής"
+      },
+      "organization": {
+        "en": "COSMOTE",
+        "el": "COSMOTE"
+      },
+      "location": {
+        "en": "Orestiada, Greece",
+        "el": "Ορεστιάδα, Ελλάδα"
+      },
+      "period": {
+        "en": "Jul 2023 – Aug 2023",
+        "el": "Ιούλ 2023 – Αύγ 2023"
+      },
+      "bullets": [
+        {
+          "en": "Supported daily sales operations and provided high-quality customer service.",
+          "el": "Υποστήριξα τις καθημερινές λειτουργίες πωλήσεων και παρείχα υψηλής ποιότητας εξυπηρέτηση πελατών."
+        },
+        {
+          "en": "Developed a strong foundational knowledge of modern telecommunications products and technical devices.",
+          "el": "Απέκτησα ισχυρή βασική γνώση σύγχρονων τηλεπικοινωνιακών προϊόντων και τεχνικών συσκευών."
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": {
+        "en": "Cybersecurity Lab Projects and Case Studies (MSc)",
+        "el": "Εργαστηριακά Projects & Μελέτες Κυβερνοασφάλειας (MSc)"
+      },
+      "period": {
+        "en": "Oct 2025 – Jan 2026",
+        "el": "Οκτ 2025 – Ιαν 2026"
+      },
+      "items": [
+        {
+          "name": {
+            "en": "Penetration Testing and Vulnerability Exploitation",
+            "el": "Penetration Testing & Εκμετάλλευση Ευπαθειών"
+          },
+          "description": {
+            "en": "Conducted full-cycle penetration tests based on the Cyber Kill Chain, exploiting Windows Server vulnerabilities, Heartbleed (CVE-2014-0160) and buffer overflows using Metasploit, Nmap and GDB. Performed Red Teaming on web applications targeting SQLi and XSS via Burp Suite.",
+            "el": "Εκτέλεσα ολοκληρωμένα penetration tests βασισμένα στο Cyber Kill Chain, εκμεταλλευόμενος ευπάθειες Windows Server, το Heartbleed (CVE-2014-0160) και buffer overflows με Metasploit, Nmap και GDB. Πραγματοποίησα Red Teaming σε web εφαρμογές με στόχο SQLi και XSS μέσω Burp Suite."
+          }
+        },
+        {
+          "name": {
+            "en": "Network Security and MitM Attacks",
+            "el": "Ασφάλεια Δικτύων & Επιθέσεις MitM"
+          },
+          "description": {
+            "en": "Executed Man-in-the-Middle attacks (ARP/DNS spoofing, TCP session hijacking) and low-level packet sniffing in Kali Linux environments using Wireshark, Ettercap and Python (Scapy).",
+            "el": "Εκτέλεσα επιθέσεις Man-in-the-Middle (ARP/DNS spoofing, TCP session hijacking) και packet sniffing χαμηλού επιπέδου σε περιβάλλοντα Kali Linux με Wireshark, Ettercap και Python (Scapy)."
+          }
+        },
+        {
+          "name": {
+            "en": "Defense-in-Depth and Infrastructure",
+            "el": "Defense-in-Depth & Υποδομές"
+          },
+          "description": {
+            "en": "Configured Palo Alto firewalls with strict access policies and set up DNS servers (BIND9) in virtualized environments. Implemented server defenses combining iptables and the ModSecurity WAF to block unauthorized access and web attacks.",
+            "el": "Παραμετροποίησα firewalls Palo Alto με αυστηρές πολιτικές πρόσβασης και έστησα DNS servers (BIND9) σε εικονικά περιβάλλοντα. Υλοποίησα άμυνες server συνδυάζοντας iptables και ModSecurity WAF για αποκλεισμό μη εξουσιοδοτημένης πρόσβασης και web επιθέσεων."
+          }
+        },
+        {
+          "name": {
+            "en": "Malware Analysis and Risk Management",
+            "el": "Ανάλυση Κακόβουλου Λογισμικού & Διαχείριση Κινδύνου"
+          },
+          "description": {
+            "en": "Analyzed evasive malware attack chains (shellcode injection, PID spoofing) using Sysmon and System Informer. Evaluated risk management frameworks (ISO/IEC 27005:2022, NIST) and practical GRC tools (SimpleRisk, Monarc, Verinice, EAR/PILAR).",
+            "el": "Ανέλυσα αλυσίδες επιθέσεων κακόβουλου λογισμικού με τεχνικές αποφυγής (shellcode injection, PID spoofing) με Sysmon και System Informer. Αξιολόγησα πλαίσια διαχείρισης κινδύνου (ISO/IEC 27005:2022, NIST) και εργαλεία GRC (SimpleRisk, Monarc, Verinice, EAR/PILAR)."
+          }
+        },
+        {
+          "name": {
+            "en": "Lightweight Cryptography and IoT Security",
+            "el": "Ελαφριά Κρυπτογραφία & Ασφάλεια IoT"
+          },
+          "description": {
+            "en": "Analyzed the NIST SP 800-232 standard and the Ascon algorithm family, the official lightweight cryptography solution for resource-constrained IoT devices. Evaluated the sponge architecture, AEAD and hashing functions, focusing on the trade-offs between 128-bit security and hardware efficiency.",
+            "el": "Ανέλυσα το πρότυπο NIST SP 800-232 και την οικογένεια αλγορίθμων Ascon, την επίσημη λύση ελαφριάς κρυπτογραφίας για συσκευές IoT με περιορισμένους πόρους. Αξιολόγησα την αρχιτεκτονική sponge, τις λειτουργίες AEAD και hashing, εστιάζοντας στους συμβιβασμούς μεταξύ ασφάλειας 128-bit και αποδοτικότητας υλικού."
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Software Engineering and Web Development Projects (BSc)",
+        "el": "Projects Τεχνολογίας Λογισμικού & Web Development (BSc)"
+      },
+      "period": {
+        "en": "Oct 2020 – Jul 2025",
+        "el": "Οκτ 2020 – Ιούλ 2025"
+      },
+      "items": [
+        {
+          "name": {
+            "en": "Web-Based Educational Platform (Thesis)",
+            "el": "Διαδικτυακή Εκπαιδευτική Πλατφόρμα (Διπλωματική)"
+          },
+          "description": {
+            "en": "Developed a full-stack application with an integrated interactive Unity/C# game to evaluate students' Python skills. Built the front-end with HTML/CSS/JS and Bootstrap, using Firebase for cloud-based user data storage.",
+            "el": "Ανέπτυξα full-stack εφαρμογή με ενσωματωμένο διαδραστικό παιχνίδι Unity/C# για την αξιολόγηση των δεξιοτήτων Python των μαθητών. Υλοποίησα το front-end με HTML/CSS/JS και Bootstrap, χρησιμοποιώντας Firebase για αποθήκευση δεδομένων χρηστών στο cloud."
+          }
+        },
+        {
+          "name": {
+            "en": "Game Development",
+            "el": "Ανάπτυξη Παιχνιδιών"
+          },
+          "description": {
+            "en": "Created a 2D arcade-style game (\"Oh-Mummy\" clone) in Python and developed multiple 2D interactive games in Unity using C# scripting.",
+            "el": "Δημιούργησα ένα 2D arcade παιχνίδι (clone του «Oh-Mummy») σε Python και ανέπτυξα πολλαπλά 2D διαδραστικά παιχνίδια σε Unity με C#."
+          }
+        },
+        {
+          "name": {
+            "en": "System Programming and Media Processing",
+            "el": "Προγραμματισμός Συστημάτων & Επεξεργασία Πολυμέσων"
+          },
+          "description": {
+            "en": "Implemented digital image processing applications in C++ (OpenCV), applied video compression techniques using VVenC and developed Linux system programs in C (pipes, sockets) and Bash scripting.",
+            "el": "Υλοποίησα εφαρμογές ψηφιακής επεξεργασίας εικόνας σε C++ (OpenCV), εφάρμοσα τεχνικές συμπίεσης βίντεο με VVenC και ανέπτυξα προγράμματα συστήματος Linux σε C (pipes, sockets) και Bash scripting."
+          }
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": {
+        "en": "Volunteer Blood and Bone Marrow Donor",
+        "el": "Εθελοντής Αιμοδότης & Δότης Μυελού των Οστών"
+      },
+      "description": {
+        "en": "Registered bone marrow donor (since August 2021) and regular blood donor (since October 2021), demonstrating a continuous and active commitment to public health and social responsibility.",
+        "el": "Εγγεγραμμένος δότης μυελού των οστών (από τον Αύγουστο 2021) και τακτικός αιμοδότης (από τον Οκτώβριο 2021), με συνεχή και ενεργή δέσμευση στη δημόσια υγεία και την κοινωνική ευθύνη."
+      }
+    }
+  ]
+}
