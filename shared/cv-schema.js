@@ -284,7 +284,7 @@ Rules:
 - Greek translations must read naturally to a native speaker, not word-for-word. Keep technical terms, tool names, company names, university names and certification titles in their original form (e.g. "Metasploit", "Netcompany", "CompTIA Security+"). Job titles and descriptions SHOULD be translated.
 - Preserve the CV's own ordering and wording. Do not invent, embellish, summarise away detail, or add achievements that are not stated.
 - Dates: keep the format used in the CV. Abbreviate Greek months (Ιαν, Φεβ, Μάρ, Απρ, Μάι, Ιούν, Ιούλ, Αύγ, Σεπ, Οκτ, Νοε, Δεκ) when the English uses abbreviations.
-- For phone hrefs strip all spaces and keep the country code (tel:+306936736484).
+- For phone hrefs strip all spaces and keep the country code, e.g. "+30 694 123 4567" becomes tel:+306941234567.
 - If a section is absent from the CV, return an empty array for it rather than inventing content.`;
 
 /**
@@ -300,7 +300,7 @@ Rules:
 - Report the document's language in sourceLanguage.
 - Preserve the CV's own ordering and wording. Do not invent, embellish, summarise away detail, or add achievements that are not stated.
 - Keep dates in the format used in the CV.
-- For phone hrefs strip all spaces and keep the country code (tel:+306936736484).
+- For phone hrefs strip all spaces and keep the country code, e.g. "+30 694 123 4567" becomes tel:+306941234567.
 - If a section is absent from the CV, return an empty array for it rather than inventing content.`;
 
 
