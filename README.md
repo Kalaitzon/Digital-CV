@@ -1,4 +1,4 @@
-# Ioannis Kalaitzidis — Digital CV
+# Ioannis Kalaitzidis - Digital CV
 
 An interactive digital CV presented as a retro Windows desktop: draggable
 windows, a taskbar, a Start menu and five selectable themes. **Windows 98** is
