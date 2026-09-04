@@ -1,4 +1,4 @@
-# Digital CV - Ioannis Kalaitzidis
+# Digital CV
 
 An interactive CV presented as a retro Windows desktop: draggable windows, a
 taskbar, a Start menu and five selectable themes. **Windows 98** is the default
@@ -291,12 +291,18 @@ so returning visitors keep their settings.
 ## Credits
 
 The desktop artwork — the startup emblem and the XP-style wallpaper — is drawn
-in SVG for this project rather than taken from Microsoft's own assets. Fonts
-under `assets/fonts/` are a Latin + Greek subset of DejaVu Sans, which is free
-to redistribute.
+in SVG for this project rather than taken from Microsoft's own assets. The
+fonts under `assets/fonts/` are a Latin + Greek subset of DejaVu Sans and keep
+their own licence, included alongside them in `assets/fonts/LICENSE.txt`.
 
 Built with the assistance of Claude.
 
-## License
+## Licence
 
-© Ioannis Kalaitzidis. All rights reserved.
+© 2026 Ioannis Kalaitzidis. All rights reserved.
+
+The code is published for reference and portfolio purposes; it is **not** open
+source, and reuse, redeployment or derivative works need written permission.
+The CV content and the personal data in it are not licensed at all. Reading the
+code, quoting short excerpts with attribution, and running it locally to
+evaluate it are permitted. See [LICENSE](LICENSE) for the full terms.

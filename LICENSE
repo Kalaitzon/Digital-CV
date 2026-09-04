@@ -1,0 +1,76 @@
+DIGITAL CV — PROPRIETARY LICENCE
+
+Copyright (c) 2026 Ioannis Kalaitzidis. All rights reserved.
+
+This repository is published for reference, review and portfolio purposes only.
+Making the source code visible does not place it in the public domain and does
+not grant any licence to use it.
+
+WHAT IS NOT PERMITTED
+
+Without prior written permission from the copyright holder, no person may:
+
+  1. copy, reproduce or redistribute this software, in whole or in part;
+  2. modify it, adapt it, or create derivative works from it;
+  3. use it, or any part of it, in any product or service, whether commercial
+     or non-commercial;
+  4. deploy or host it, publicly or privately, for anyone other than the
+     copyright holder;
+  5. sublicense, sell, rent or otherwise transfer any rights in it;
+  6. remove or alter this notice, or any copyright or attribution notice
+     contained in the source files.
+
+WHAT IS PERMITTED
+
+  1. Reading the source code.
+  2. Quoting short excerpts for the purpose of commentary, review, teaching or
+     technical discussion, with attribution to the author and a link to this
+     repository.
+  3. Running the software locally for the sole purpose of evaluating it, on the
+     condition that it is not deployed, published or made available to any
+     third party.
+
+PERSONAL CONTENT AND IDENTITY
+
+The CV content in this repository — `src/data/cv.json`, the PDF files under
+`public/`, and every name, contact detail and biographical statement in them —
+is personal data belonging to the copyright holder. It is published so that the
+site can serve it, and for no other purpose.
+
+It is not licensed under any of the permissions above. It may not be copied,
+republished, indexed into a dataset, used to train a model, or presented as
+anyone else's CV. The author's name and likeness may not be used to identify
+any other product, service or person.
+
+If you are reusing this project as a template, replace that content with your
+own before publishing anything.
+
+THIRD-PARTY COMPONENTS
+
+This licence covers only the work of the copyright holder. It does not, and
+cannot, apply to third-party material distributed with or used by this project,
+which keeps its own licence:
+
+  - The font subsets in `assets/fonts/` are derived from DejaVu Sans and remain
+    under the Bitstream Vera Fonts Copyright. The full notice is in
+    `assets/fonts/LICENSE.txt` and travels with those files.
+  - Every dependency installed from npm is governed by its own licence, as
+    declared in its package.
+
+Nothing here restricts rights you already hold under those licences.
+
+NO WARRANTY
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and non-infringement. It reads documents with
+a third-party AI model and can misread, mistranslate or omit content; the
+author gives no assurance that any generated text or generated PDF is accurate
+or complete. In no event shall the author be liable for any claim, damages or
+other liability arising from, out of or in connection with the software or its
+use.
+
+CONTACT
+
+For permission requests, please contact the copyright holder through the GitHub
+profile associated with this repository.
